@@ -1,0 +1,33 @@
+{
+  "breaststroke_skills": {
+    "metadata": {
+      "version": "1.0",
+      "last_updated": "2025-01-27",
+      "stroke": "breaststroke"
+    },
+    "skills": {
+      "skill-1-1": {
+        "name": "Horizontal Body Alignment",
+        "category": "Body Position",
+        "description": "Maintaining horizontal position without excessive flotation support",
+        "page_url": "https://sites.google.com/view/swimteacher/skills/horizontal-body-alignment",
+        "priority": "critical",
+        "week_focus": "1-2",
+        "equipment_needed": ["pool_noodle", "kickboard"],
+        "prerequisite_skills": [],
+        "enables_skills": ["skill-1-3", "skill-2-3"]
+      },
+      "skill-2-1": {
+        "name": "Kick Sequence Accuracy",
+        "category": "Kick Mechanics",
+        "description": "Proper recovery-catch-power-glide sequence",
+        "page_url": "https://sites.google.com/view/swimteacher/skills/kick-sequence-accuracy",
+        "priority": "critical",
+        "week_focus": "1-2",
+        "equipment_needed": ["pool_wall"],
+        "prerequisite_skills": ["skill-1-1"],
+        "enables_skills": ["skill-2-3", "skill-2-4"]
+      }
+    }
+  }
+}
