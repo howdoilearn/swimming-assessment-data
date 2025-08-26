@@ -1,0 +1,279 @@
+{
+  "stroke": "breaststroke",
+  "program_title": "Adult Beginner to 25-Yard Breaststroke",
+  "estimated_duration": "8-12 weeks",
+  "phases": [
+    {
+      "id": 1,
+      "title": "Water Comfort & Safety",
+      "category": "universal",
+      "estimated_duration": "1-2 weeks",
+      "description": "Essential water safety and comfort skills required for all swimming strokes",
+      "exit_criteria": [
+        {
+          "id": "1-1",
+          "description": "Enter pool safely using ladder or steps without assistance",
+          "test_method": "demonstration"
+        },
+        {
+          "id": "1-2", 
+          "description": "Stand comfortably in chest-deep water without holding pool wall",
+          "test_method": "demonstration"
+        },
+        {
+          "id": "1-3",
+          "description": "Submerge face completely underwater for 5 seconds without panic",
+          "test_method": "timed_demonstration"
+        }
+      ],
+      "practice_focus": [
+        "Pool entry and exit safety",
+        "Water walking and movement",
+        "Face submersion progression"
+      ],
+      "resources": [
+        "water-safety-basics",
+        "pool-entry-techniques", 
+        "overcoming-water-fear"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Basic Floating & Breathing",
+      "category": "universal",
+      "estimated_duration": "1-2 weeks", 
+      "description": "Fundamental floating and breathing skills that form the foundation for all strokes",
+      "exit_criteria": [
+        {
+          "id": "2-1",
+          "description": "Float on back for 15 seconds without support or excessive movement",
+          "test_method": "timed_demonstration"
+        },
+        {
+          "id": "2-2",
+          "description": "Float horizontally face-down for 10 seconds with face in water",
+          "test_method": "timed_demonstration"
+        },
+        {
+          "id": "2-3",
+          "description": "Demonstrate rhythmic breathing: exhale underwater, lift head to inhale",
+          "test_method": "demonstration"
+        }
+      ],
+      "practice_focus": [
+        "Back floating with minimal support",
+        "Front floating progression",
+        "Breathing rhythm development"
+      ],
+      "resources": [
+        "back-floating-technique",
+        "front-floating-mastery",
+        "swimming-breathing-basics"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Breaststroke Kick Foundations",
+      "category": "stroke_specific",
+      "estimated_duration": "1-2 weeks",
+      "description": "Master basic breaststroke kick mechanics with proper body position",
+      "exit_criteria": [
+        {
+          "id": "3-1", 
+          "description": "Demonstrate proper breaststroke kick foot position at pool wall",
+          "test_method": "technical_demonstration"
+        },
+        {
+          "id": "3-2",
+          "description": "Complete 10 yards of kick with kickboard maintaining horizontal body position",
+          "test_method": "distance_demonstration"
+        },
+        {
+          "id": "3-3",
+          "description": "Show clear recovery-catch-power-glide sequence in kick cycle",
+          "test_method": "technical_demonstration"
+        }
+      ],
+      "practice_focus": [
+        "Foot position and ankle flexibility",
+        "Wall kick practice for technique",
+        "Kickboard progression drills"
+      ],
+      "resources": [
+        "breaststroke-kick-basics",
+        "foot-position-training",
+        "kickboard-techniques"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Kick Development & Power", 
+      "category": "stroke_specific",
+      "estimated_duration": "1-2 weeks",
+      "description": "Develop kick power and endurance while maintaining technique",
+      "exit_criteria": [
+        {
+          "id": "4-1",
+          "description": "Generate visible forward propulsion with each kick stroke",
+          "test_method": "technical_demonstration"
+        },
+        {
+          "id": "4-2", 
+          "description": "Complete 25 yards of continuous kicking with kickboard",
+          "test_method": "distance_demonstration"
+        },
+        {
+          "id": "4-3",
+          "description": "Maintain proper glide phase (legs together) for 2+ seconds after each kick",
+          "test_method": "technical_demonstration"
+        }
+      ],
+      "practice_focus": [
+        "Power development drills",
+        "Glide phase control",
+        "Kick endurance building"
+      ],
+      "resources": [
+        "kick-power-training",
+        "glide-phase-mastery",
+        "kick-endurance-drills"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Breathing Integration",
+      "category": "stroke_specific", 
+      "estimated_duration": "1-2 weeks",
+      "description": "Coordinate breathing with kick cycle timing",
+      "exit_criteria": [
+        {
+          "id": "5-1",
+          "description": "Time breathing lift during kick recovery phase consistently",
+          "test_method": "technical_demonstration"
+        },
+        {
+          "id": "5-2",
+          "description": "Complete 15 yards of kick-breathing coordination without breaking rhythm",
+          "test_method": "distance_demonstration"
+        },
+        {
+          "id": "5-3", 
+          "description": "Demonstrate controlled exhale during underwater glide phase",
+          "test_method": "technical_demonstration"
+        }
+      ],
+      "practice_focus": [
+        "Breathing timing with kick cycle",
+        "Head position control",
+        "Underwater exhale technique"
+      ],
+      "resources": [
+        "breaststroke-breathing-timing",
+        "head-position-control",
+        "underwater-exhale-technique"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Arm Technique Introduction",
+      "category": "stroke_specific",
+      "estimated_duration": "1-2 weeks", 
+      "description": "Learn basic breaststroke arm movements and coordination",
+      "exit_criteria": [
+        {
+          "id": "6-1",
+          "description": "Demonstrate proper catch position with hands separating to shoulder width",
+          "test_method": "technical_demonstration"
+        },
+        {
+          "id": "6-2",
+          "description": "Complete pull-recovery sequence with arms while supported by pull buoy",
+          "test_method": "technical_demonstration"
+        },
+        {
+          "id": "6-3",
+          "description": "Coordinate arm movement with breathing lift naturally",
+          "test_method": "technical_demonstration"
+        }
+      ],
+      "practice_focus": [
+        "Catch and pull technique",
+        "Arm recovery speed",
+        "Pull buoy arm practice"
+      ],
+      "resources": [
+        "breaststroke-arm-technique",
+        "catch-position-training", 
+        "pull-buoy-drills"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Stroke Coordination",
+      "category": "stroke_specific",
+      "estimated_duration": "2-3 weeks",
+      "description": "Integrate arms and legs into coordinated breaststroke",
+      "exit_criteria": [
+        {
+          "id": "7-1",
+          "description": "Demonstrate overlapping arm and leg recovery (not sequential timing)",
+          "test_method": "technical_demonstration"
+        },
+        {
+          "id": "7-2",
+          "description": "Complete 15 yards of recognizable full breaststroke technique",
+          "test_method": "distance_demonstration"
+        },
+        {
+          "id": "7-3",
+          "description": "Maintain consistent stroke rhythm and glide phases",
+          "test_method": "technical_demonstration"
+        }
+      ],
+      "practice_focus": [
+        "Timing coordination drills",
+        "Full stroke integration", 
+        "Rhythm development"
+      ],
+      "resources": [
+        "stroke-coordination-drills",
+        "timing-cues-training",
+        "full-stroke-integration"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Distance & Performance",
+      "category": "stroke_specific",
+      "estimated_duration": "2-3 weeks",
+      "description": "Build endurance and achieve 25-yard goal with consistent technique",
+      "exit_criteria": [
+        {
+          "id": "8-1",
+          "description": "Complete 25 yards of continuous breaststroke with recognizable technique",
+          "test_method": "distance_demonstration"
+        },
+        {
+          "id": "8-2", 
+          "description": "Maintain stroke technique quality throughout 25-yard distance",
+          "test_method": "technical_demonstration"
+        },
+        {
+          "id": "8-3",
+          "description": "Demonstrate ability to pace effort appropriately for distance swimming",
+          "test_method": "technical_demonstration"
+        }
+      ],
+      "practice_focus": [
+        "Endurance building",
+        "Technique under fatigue",
+        "Pacing and rhythm consistency"
+      ],
+      "resources": [
+        "distance-building-progression",
+        "technique-maintenance-drills",
+        "pacing-strategies"
+      ]
+    }
+  ]
+}
