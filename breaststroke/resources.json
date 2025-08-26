@@ -1,0 +1,149 @@
+{
+  "base_url": "https://sites.google.com/view/swimteacher",
+  "universal_skills": {
+    "water-safety-basics": {
+      "title": "Water Safety & Pool Entry Basics",
+      "url": "/universal-skills/water-safety-basics",
+      "description": "Essential safety skills for all swimming activities"
+    },
+    "pool-entry-techniques": {
+      "title": "Safe Pool Entry & Exit Techniques", 
+      "url": "/universal-skills/pool-entry-techniques",
+      "description": "Proper techniques for entering and exiting the pool safely"
+    },
+    "overcoming-water-fear": {
+      "title": "Overcoming Water Fear & Building Confidence",
+      "url": "/universal-skills/overcoming-water-fear", 
+      "description": "Progressive techniques for developing water comfort"
+    },
+    "back-floating-technique": {
+      "title": "Back Floating Mastery",
+      "url": "/universal-skills/back-floating-technique",
+      "description": "Step-by-step back floating progression"
+    },
+    "front-floating-mastery": {
+      "title": "Front Floating & Body Position",
+      "url": "/universal-skills/front-floating-mastery",
+      "description": "Horizontal floating techniques and body alignment"
+    },
+    "swimming-breathing-basics": {
+      "title": "Swimming Breathing Fundamentals",
+      "url": "/universal-skills/swimming-breathing-basics", 
+      "description": "Basic breathing patterns for all swimming strokes"
+    }
+  },
+  "breaststroke_skills": {
+    "breaststroke-kick-basics": {
+      "title": "Breaststroke Kick Fundamentals",
+      "url": "/breaststroke/kick-basics",
+      "description": "Master the basic breaststroke kick technique"
+    },
+    "foot-position-training": {
+      "title": "Proper Foot Position & Ankle Flexibility",
+      "url": "/breaststroke/foot-position-training",
+      "description": "Develop the 'duck-footed' catch position"
+    },
+    "kickboard-techniques": {
+      "title": "Kickboard Training Drills",
+      "url": "/breaststroke/kickboard-techniques", 
+      "description": "Progressive kickboard drills for technique development"
+    },
+    "kick-power-training": {
+      "title": "Kick Power Development",
+      "url": "/breaststroke/kick-power-training",
+      "description": "Build propulsive power in your breaststroke kick"
+    },
+    "glide-phase-mastery": {
+      "title": "Glide Phase Control",
+      "url": "/breaststroke/glide-phase-mastery",
+      "description": "Master the streamlined glide for efficiency"
+    },
+    "kick-endurance-drills": {
+      "title": "Kick Endurance Building",
+      "url": "/breaststroke/kick-endurance-drills",
+      "description": "Build stamina while maintaining technique"
+    },
+    "breaststroke-breathing-timing": {
+      "title": "Breaststroke Breathing Timing",
+      "url": "/breaststroke/breathing-timing",
+      "description": "Coordinate breathing with kick cycle"
+    },
+    "head-position-control": {
+      "title": "Head Position & Movement Control", 
+      "url": "/breaststroke/head-position-control",
+      "description": "Minimize head movement for efficient breathing"
+    },
+    "underwater-exhale-technique": {
+      "title": "Underwater Exhale Technique",
+      "url": "/breaststroke/underwater-exhale-technique",
+      "description": "Proper exhale timing during glide phase"
+    },
+    "breaststroke-arm-technique": {
+      "title": "Breaststroke Arm Stroke Technique",
+      "url": "/breaststroke/arm-technique",
+      "description": "Master catch, pull, and recovery arm movements"
+    },
+    "catch-position-training": {
+      "title": "Catch Position Training",
+      "url": "/breaststroke/catch-position-training", 
+      "description": "Develop proper hand separation and catch"
+    },
+    "pull-buoy-drills": {
+      "title": "Pull Buoy Training Drills",
+      "url": "/breaststroke/pull-buoy-drills",
+      "description": "Arm-only drills for technique development"
+    },
+    "stroke-coordination-drills": {
+      "title": "Stroke Coordination Drills",
+      "url": "/breaststroke/stroke-coordination-drills",
+      "description": "Integrate arms and legs into full stroke"
+    },
+    "timing-cues-training": {
+      "title": "Timing Cues & Mental Training",
+      "url": "/breaststroke/timing-cues-training",
+      "description": "Mental cues for proper stroke timing"
+    },
+    "full-stroke-integration": {
+      "title": "Full Stroke Integration",
+      "url": "/breaststroke/full-stroke-integration",
+      "description": "Bring all elements together into coordinated stroke"
+    },
+    "distance-building-progression": {
+      "title": "Distance Building Progression",
+      "url": "/breaststroke/distance-building-progression",
+      "description": "Progressive distance training for endurance"
+    },
+    "technique-maintenance-drills": {
+      "title": "Technique Maintenance Under Fatigue",
+      "url": "/breaststroke/technique-maintenance-drills", 
+      "description": "Maintain form when swimming longer distances"
+    },
+    "pacing-strategies": {
+      "title": "Pacing & Rhythm Strategies",
+      "url": "/breaststroke/pacing-strategies",
+      "description": "Develop sustainable pacing for distance swimming"
+    }
+  },
+  "equipment_guides": {
+    "kickboard-selection": {
+      "title": "Choosing & Using Kickboards",
+      "url": "/equipment/kickboard-selection",
+      "description": "Select and use kickboards effectively"
+    },
+    "pool-noodle-training": {
+      "title": "Pool Noodle Training Techniques",
+      "url": "/equipment/pool-noodle-training",
+      "description": "Creative uses for pool noodles in skill development"
+    },
+    "pull-buoy-guide": {
+      "title": "Pull Buoy Training Guide", 
+      "url": "/equipment/pull-buoy-guide",
+      "description": "Maximize pull buoy effectiveness for arm training"
+    },
+    "no-equipment-alternatives": {
+      "title": "Training Without Equipment",
+      "url": "/equipment/no-equipment-alternatives",
+      "description": "Effective drills using only pool wall and body"
+    }
+  }
+}
