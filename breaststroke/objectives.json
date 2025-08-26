@@ -1,0 +1,79 @@
+{
+  "program_objectives": {
+    "water-confidence": {
+      "title": "Build Water Confidence & Basic Skills",
+      "description": "Develop essential water safety and comfort skills",
+      "required_phases": [1, 2, 3],
+      "estimated_timeline": "3-6 weeks",
+      "target_outcome": "Comfortable in water with basic floating and safety skills"
+    },
+    "kick-mastery": {
+      "title": "Master Breaststroke Kick Technique", 
+      "description": "Develop strong, efficient breaststroke kick",
+      "required_phases": [1, 2, 3, 4, 5],
+      "estimated_timeline": "5-8 weeks",
+      "target_outcome": "25+ yards of continuous, powerful breaststroke kick"
+    },
+    "15-yard-goal": {
+      "title": "Achieve 15-Yard Breaststroke",
+      "description": "Complete short distance with recognizable technique",
+      "required_phases": [1, 2, 3, 4, 5, 6, 7],
+      "estimated_timeline": "7-10 weeks", 
+      "target_outcome": "Consistent 15-yard breaststroke with proper coordination"
+    },
+    "25-yard-goal": {
+      "title": "Achieve 25-Yard Breaststroke",
+      "description": "Complete standard pool length with consistent technique",
+      "required_phases": [1, 2, 3, 4, 5, 6, 7, 8],
+      "estimated_timeline": "8-12 weeks",
+      "target_outcome": "Consistent 25-yard breaststroke maintaining technique throughout"
+    },
+    "technique-refinement": {
+      "title": "Refine Advanced Technique",
+      "description": "Focus on efficiency and stroke perfection",
+      "required_phases": [1, 2, 3, 4, 5, 6, 7, 8],
+      "estimated_timeline": "8-12+ weeks",
+      "target_outcome": "Efficient, technically proficient breaststroke with endurance"
+    }
+  },
+  "phase_categories": {
+    "universal": {
+      "title": "Universal Swimming Skills",
+      "description": "Fundamental skills required for all swimming strokes",
+      "applies_to_strokes": ["breaststroke", "freestyle", "backstroke", "butterfly"]
+    },
+    "stroke_specific": {
+      "title": "Breaststroke-Specific Skills",
+      "description": "Skills unique to breaststroke technique and coordination",
+      "applies_to_strokes": ["breaststroke"]
+    }
+  },
+  "equipment_requirements": {
+    "essential": [
+      "Access to pool with chest-deep water",
+      "Pool ladder or steps for safe entry/exit"
+    ],
+    "recommended": [
+      "Kickboard for kick development phases",
+      "Pool noodle for flotation support",
+      "Pull buoy for arm technique development"
+    ],
+    "alternatives": {
+      "no_kickboard": "Use pool wall for kick practice",
+      "no_pool_noodle": "Practice near pool wall for support",
+      "no_pull_buoy": "Use natural buoyancy and focus on timing"
+    }
+  },
+  "assessment_guidelines": {
+    "phase_completion": {
+      "all_criteria_required": true,
+      "self_assessment_note": "Be honest - advancing too early creates bad habits",
+      "demonstration_method": "Actual performance, not self-rating"
+    },
+    "retry_policy": {
+      "unlimited_attempts": true, 
+      "focus_on_mastery": "Quality over speed of progression",
+      "support_message": "Everyone learns at their own pace - repetition builds confidence"
+    }
+  }
+}
