@@ -1,0 +1,214 @@
+{
+  "stroke": "breaststroke",
+  "tool_title": "Breaststroke Practice Planning Tool",
+  "description": "Flexible skill practice organizer for structured swimming development",
+  "skill_categories": {
+    "water_comfort": {
+      "title": "Water Comfort & Safety",
+      "description": "Foundation skills for all swimming activities",
+      "skills": {
+        "pool-entry": {
+          "name": "Safe Pool Entry & Exit",
+          "description": "Practice entering and exiting pool safely using ladder/steps",
+          "practice_objective": "Complete 5 safe entries and exits focusing on control",
+          "duration": "5-10 minutes",
+          "equipment": "none",
+          "safety_level": "beginner",
+          "resource": "pool-entry-techniques"
+        },
+        "water-walking": {
+          "name": "Water Walking & Movement",
+          "description": "Comfortable movement in chest-deep water",
+          "practice_objective": "Walk 20 steps forward/backward/sideways in chest-deep water",
+          "duration": "5-10 minutes", 
+          "equipment": "none",
+          "safety_level": "beginner",
+          "resource": "water-safety-basics"
+        },
+        "face-submersion": {
+          "name": "Face Submersion Practice",
+          "description": "Comfortable face-in-water breathing",
+          "practice_objective": "10 repetitions of 5-second face submersion with controlled breathing",
+          "duration": "10-15 minutes",
+          "equipment": "none",
+          "safety_level": "beginner", 
+          "resource": "overcoming-water-fear"
+        }
+      }
+    },
+    "floating_skills": {
+      "title": "Floating & Body Position",
+      "description": "Core floating skills for all swimming strokes",
+      "skills": {
+        "back-float": {
+          "name": "Back Floating Practice",
+          "description": "Unassisted back floating with minimal movement",
+          "practice_objective": "Hold back float for 30 seconds x 5 repetitions with 1-minute rest",
+          "duration": "15-20 minutes",
+          "equipment": "optional: pool noodle for support",
+          "safety_level": "beginner",
+          "resource": "back-floating-technique"
+        },
+        "front-float": {
+          "name": "Front Floating Drills", 
+          "description": "Horizontal front floating with face in water",
+          "practice_objective": "Hold front float 15 seconds x 8 repetitions, focus on hip alignment",
+          "duration": "15-20 minutes",
+          "equipment": "optional: pool noodle for support",
+          "safety_level": "beginner",
+          "resource": "front-floating-mastery"
+        },
+        "float-transitions": {
+          "name": "Float Transition Drills",
+          "description": "Moving between back float and front float smoothly",
+          "practice_objective": "Complete 10 smooth transitions from back to front float",
+          "duration": "10-15 minutes",
+          "equipment": "none",
+          "safety_level": "intermediate",
+          "resource": "floating-transitions"
+        }
+      }
+    },
+    "breathing_drills": {
+      "title": "Breathing Coordination",
+      "description": "Breathing patterns and timing for swimming",
+      "skills": {
+        "rhythmic-breathing": {
+          "name": "Basic Rhythmic Breathing",
+          "description": "Exhale underwater, lift head to inhale pattern",
+          "practice_objective": "20 cycles of exhale-underwater, inhale-above in stationary position",
+          "duration": "10-15 minutes",
+          "equipment": "none",
+          "safety_level": "beginner",
+          "resource": "swimming-breathing-basics"
+        },
+        "breathing-timing": {
+          "name": "Breaststroke Breathing Timing",
+          "description": "Coordinate breathing with kick recovery phase",
+          "practice_objective": "10 slow kick cycles focusing only on breathing timing",
+          "duration": "15-20 minutes",
+          "equipment": "kickboard",
+          "safety_level": "intermediate",
+          "resource": "breaststroke-breathing-timing"
+        },
+        "underwater-exhale": {
+          "name": "Underwater Exhale Control",
+          "description": "Controlled exhale during glide phases",
+          "practice_objective": "15 repetitions: inhale, submerge, controlled 3-second exhale",
+          "duration": "10-15 minutes",
+          "equipment": "none",
+          "safety_level": "intermediate",
+          "resource": "underwater-exhale-technique"
+        }
+      }
+    },
+    "kick_development": {
+      "title": "Kick Technique & Power",
+      "description": "Breaststroke kick mechanics and strength building",
+      "skills": {
+        "wall-kick": {
+          "name": "Wall Kick Practice",
+          "description": "Foot position and kick sequence at pool wall",
+          "practice_objective": "50 slow wall kicks focusing on foot position and sequence",
+          "duration": "15-20 minutes",
+          "equipment": "none",
+          "safety_level": "beginner",
+          "resource": "foot-position-training"
+        },
+        "kickboard-basic": {
+          "name": "Basic Kickboard Drills",
+          "description": "Kick with kickboard focusing on technique",
+          "practice_objective": "4 x 25 yards kick with kickboard, rest 30 seconds between",
+          "duration": "20-25 minutes",
+          "equipment": "kickboard",
+          "safety_level": "intermediate",
+          "resource": "kickboard-techniques"
+        },
+        "power-kicks": {
+          "name": "Kick Power Development",
+          "description": "Building propulsive power in kick",
+          "practice_objective": "6 x 15 yards strong kick with kickboard, focus on acceleration",
+          "duration": "20-25 minutes",
+          "equipment": "kickboard",
+          "safety_level": "intermediate",
+          "resource": "kick-power-training"
+        },
+        "glide-control": {
+          "name": "Glide Phase Practice",
+          "description": "Streamlined glide after each kick",
+          "practice_objective": "20 slow kicks emphasizing 2-second glide after each kick",
+          "duration": "15-20 minutes",
+          "equipment": "kickboard",
+          "safety_level": "intermediate", 
+          "resource": "glide-phase-mastery"
+        }
+      }
+    },
+    "arm_technique": {
+      "title": "Arm Stroke Development",
+      "description": "Breaststroke arm movements and coordination",
+      "skills": {
+        "catch-practice": {
+          "name": "Catch Position Drills",
+          "description": "Hand separation and catch position training",
+          "practice_objective": "30 slow arm movements focusing on shoulder-width hand separation",
+          "duration": "15-20 minutes",
+          "equipment": "pull buoy or pool noodle",
+          "safety_level": "intermediate",
+          "resource": "catch-position-training"
+        },
+        "pull-sequence": {
+          "name": "Pull Pattern Practice",
+          "description": "Complete arm pull and recovery sequence",
+          "practice_objective": "4 x 25 yards arms only with pull buoy, focus on smooth recovery",
+          "duration": "20-25 minutes",
+          "equipment": "pull buoy",
+          "safety_level": "intermediate",
+          "resource": "breaststroke-arm-technique"
+        },
+        "arm-breathing": {
+          "name": "Arm-Breathing Coordination",
+          "description": "Natural head lift during arm pull phase",
+          "practice_objective": "20 slow arm cycles coordinating breathing with pull phase",
+          "duration": "15-20 minutes",
+          "equipment": "pull buoy",
+          "safety_level": "intermediate",
+          "resource": "arm-breathing-coordination"
+        }
+      }
+    },
+    "stroke_integration": {
+      "title": "Full Stroke Coordination",
+      "description": "Combining arms, legs, and breathing into complete stroke",
+      "skills": {
+        "timing-drills": {
+          "name": "Stroke Timing Practice",
+          "description": "Coordinating arm and leg recovery phases",
+          "practice_objective": "10 very slow full strokes focusing on overlapping recovery timing",
+          "duration": "20-25 minutes",
+          "equipment": "none",
+          "safety_level": "advanced",
+          "resource": "stroke-coordination-drills"
+        },
+        "rhythm-development": {
+          "name": "Stroke Rhythm Building",
+          "description": "Consistent stroke rhythm and pacing",
+          "practice_objective": "3 x 50 yards full stroke maintaining consistent rhythm throughout",
+          "duration": "25-30 minutes",
+          "equipment": "none",
+          "safety_level": "advanced",
+          "resource": "rhythm-development"
+        },
+        "distance-building": {
+          "name": "Distance Swimming Practice",
+          "description": "Building endurance while maintaining technique",
+          "practice_objective": "Swim continuous breaststroke for 5 minutes, focus on technique consistency",
+          "duration": "30-40 minutes",
+          "equipment": "none", 
+          "safety_level": "advanced",
+          "resource": "distance-building-progression"
+        }
+      }
+    }
+  }
+}
