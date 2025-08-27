@@ -1,0 +1,118 @@
+{
+  "templates": {
+    "beginner_foundation": {
+      "name": "Beginner Foundation Session",
+      "description": "Basic water comfort and floating skills for new swimmers",
+      "duration": "30-40 minutes",
+      "difficulty": "beginner",
+      "skills": [
+        "pool-entry",
+        "water-walking", 
+        "face-submersion",
+        "back-float",
+        "rhythmic-breathing"
+      ],
+      "warm_up": "5 minutes water walking and gentle movement",
+      "cool_down": "5 minutes easy back floating",
+      "notes": "Focus on comfort and confidence building. Stop if feeling anxious."
+    },
+    "kick_focus": {
+      "name": "Kick Development Session", 
+      "description": "Concentrated breaststroke kick technique and power building",
+      "duration": "40-50 minutes",
+      "difficulty": "intermediate",
+      "skills": [
+        "wall-kick",
+        "kickboard-basic", 
+        "glide-control",
+        "power-kicks"
+      ],
+      "warm_up": "10 minutes easy swimming or water walking",
+      "cool_down": "10 minutes easy backstroke or floating",
+      "notes": "Rest 30 seconds between kick sets. Focus on technique over speed."
+    },
+    "breathing_coordination": {
+      "name": "Breathing & Timing Session",
+      "description": "Develop breathing patterns and stroke timing",
+      "duration": "35-45 minutes", 
+      "difficulty": "intermediate",
+      "skills": [
+        "rhythmic-breathing",
+        "breathing-timing",
+        "underwater-exhale",
+        "arm-breathing"
+      ],
+      "warm_up": "10 minutes easy movement and floating",
+      "cool_down": "5 minutes relaxed floating",
+      "notes": "Practice slowly. Focus on rhythm rather than distance."
+    },
+    "stroke_development": {
+      "name": "Full Stroke Development",
+      "description": "Integrate arms, legs, and breathing into complete stroke",
+      "duration": "45-60 minutes",
+      "difficulty": "advanced",
+      "skills": [
+        "catch-practice",
+        "pull-sequence", 
+        "timing-drills",
+        "rhythm-development"
+      ],
+      "warm_up": "15 minutes easy kick and arm drills",
+      "cool_down": "10 minutes easy swimming or floating",
+      "notes": "Work on coordination. Quality over quantity."
+    },
+    "endurance_building": {
+      "name": "Distance & Endurance Session",
+      "description": "Build swimming stamina while maintaining technique",
+      "duration": "50-70 minutes",
+      "difficulty": "advanced", 
+      "skills": [
+        "rhythm-development",
+        "distance-building",
+        "glide-control"
+      ],
+      "warm_up": "20 minutes mixed kick and arm drills",
+      "cool_down": "15 minutes easy swimming",
+      "notes": "Pace yourself. Rest when technique begins to break down."
+    },
+    "technique_refinement": {
+      "name": "Technique Polish Session",
+      "description": "Fine-tune stroke mechanics and efficiency",
+      "duration": "40-50 minutes",
+      "difficulty": "advanced",
+      "skills": [
+        "catch-practice",
+        "timing-drills",
+        "glide-control",
+        "arm-breathing"
+      ],
+      "warm_up": "15 minutes easy full stroke",
+      "cool_down": "10 minutes relaxed swimming",
+      "notes": "Concentrate on precision. Video analysis recommended."
+    },
+    "instructor_assessment": {
+      "name": "Pre-Lesson Assessment Session",
+      "description": "Practice specific skills before instructor evaluation",
+      "duration": "30-45 minutes",
+      "difficulty": "variable",
+      "skills": [],
+      "warm_up": "10 minutes general swimming warm-up",
+      "cool_down": "5 minutes easy movement",
+      "notes": "Skills will be assigned by instructor. Focus on consistency."
+    }
+  },
+  "session_structure": {
+    "recommended_format": {
+      "warm_up": "10-15% of total session time",
+      "main_practice": "70-80% of total session time", 
+      "cool_down": "10-15% of total session time"
+    },
+    "safety_guidelines": [
+      "Never practice alone - always have supervision available",
+      "Stop practice if experiencing fatigue that affects technique",
+      "Ensure emergency equipment and contacts are accessible",
+      "Practice within your current skill level",
+      "When in doubt, seek qualified instruction"
+    ]
+  }
+}
